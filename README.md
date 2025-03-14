@@ -1,5 +1,5 @@
 # git_test
 Repository for testing git functionalities for the first time.
-Hello Odin! About to use command git add .
+Hello World! 
 
-Just typing some stuff to show off as she looks over my shoulder. 
+Learning on your own is fun. All you gotta do is believe in yourself!
